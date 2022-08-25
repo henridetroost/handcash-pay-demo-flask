@@ -14,7 +14,7 @@ headers = {
 url = "https://cloud.handcash.io/v2/paymentRequests"
 payload = {
     "product": {
-        "name": "Enjoy your pure water 💧 · 5000 ml",
+        "name": "Enjoy your can of pure water 💧 · 5000 ml",
         "description": "5L - O25 Drink Clean",
         "imageUrl": "https://docs.o25.eu/photos/water%20wallpaper.jpg"
     },
